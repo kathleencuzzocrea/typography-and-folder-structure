@@ -54,7 +54,6 @@ a {
 .grid-full {
    display: grid;
    grid-template-columns: 412px;
-   background-color: bisque;
 }
 
 /* A keyword indicating that the property contributes nothing to the grid item's placement, indicating auto-placement, an automatic span, or a default span of 1. */
